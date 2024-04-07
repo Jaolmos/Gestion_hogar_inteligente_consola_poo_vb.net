@@ -1,0 +1,11 @@
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\obj\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.vbproj.AssemblyReference.cache
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\obj\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.Resources.resources
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\obj\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.vbproj.GenerateResource.cache
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\obj\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.vbproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\bin\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.exe.config
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\bin\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.exe
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\bin\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.pdb
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\bin\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.xml
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\obj\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.exe
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\obj\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.xml
+C:\Users\josea\source\repos\proyectos_github\vb\consola\Gestion_hogar_inteligente_poo_vb.net_consola\obj\Debug\Gestion_hogar_inteligente_poo_vb.net_consola.pdb
